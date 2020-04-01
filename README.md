@@ -1,5 +1,5 @@
 # proxiechains
-Bash script for that automates proxychains
+Bash script that automates proxychains
 
 1) git clone https://github.com/Sud03GDE/proxiechains
 2) cd proxiechains
